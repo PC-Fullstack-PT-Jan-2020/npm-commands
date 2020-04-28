@@ -20,3 +20,7 @@
 ## to create a new npm project
 
 ```npm init -y```
+
+## how to start a react project (and common practice for others)
+
+```npm run start```
