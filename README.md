@@ -24,3 +24,15 @@
 ## how to start a react project (and common practice for others)
 
 ```npm run start```
+
+## get broiler
+
+```npm install -g broiler```
+
+## save new boilerplate
+
+```npm save template-name git-repo-link.git```
+
+## create from template
+
+```broiler install template-name project-name```
