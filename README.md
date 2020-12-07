@@ -31,7 +31,7 @@
 
 ## save new boilerplate
 
-```npm save template-name git-repo-link.git```
+```broiler save template-name git-repo-link.git```
 
 ## create from template
 
